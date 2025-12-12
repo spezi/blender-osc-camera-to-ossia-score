@@ -1,7 +1,3 @@
-Here is the English translation:
-
----
-
 # Blender OSC Camera Sync
 
 Blender add-on for sending camera parameters via OSC (Open Sound Control).
@@ -75,5 +71,3 @@ Transformation: `(x, y, z)_blender → (x, z, -y)_ossia`
 ## License
 
 GPL v3
-
----
